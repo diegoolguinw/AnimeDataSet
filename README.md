@@ -9,7 +9,7 @@ Integrantes:<br/>
 -Raimundo Lushsinger<br/>
 -Diego Olguín<br/>
 
-
+# Importante: Descargar "animelists_cleaned.csv"
 
 
 
