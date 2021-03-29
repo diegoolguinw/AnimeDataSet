@@ -1,0 +1,77 @@
+Data Set: Anime
+
+Motivación: ¿Cuál es el contexto general del tema/problema/datos de estudio? ¿Por qué podría ser interesante estudiar estos datos?
+
+Hoy en dia el anime forma gran parte de la cultura occidental, ha tenido un impacto grande en la sociedad; 
+no solo dentro de japón si no que ha llegado a ser tendencia en todo el mundo. Como ejemplo de lo anterior se encuentra
+Shingeki no Kyojin / Attack On Tittan que es un anime que actualmente se encuentra en emisión que ha tenido de los ratings y recepeciones más altos dentro de la
+televisión y medios de comunicación.
+
+Podría ser interesante estudiar este dataset para comprender 
+
+1- La demografía de los auditores de anime [Este objetivo estaba en las sugerencias de proyecto]
+2- El cambio que ha tenido el anime a lo largo de los años [Este objetivo estaba en las sugerencias de proyecto]
+3- Estudiar el efecto que tienen ciertos productores o personas en el exito del anime (por ejemplo, en general las peliculas realizadas por el studio ghibil tienen
+un impacto importante y suelen considerarse dentro de las mejores obras cinematograficas)  [Este objetivo estaba en las sugerencias de proyecto]
+4- Ser capaz de hacer recomendaciones a usuarios sobre posibles animes que pueden interesarles dado sus gustos [Esto quizas sea demasiado]
+
+Exploración de Datos: Características más relevantes e interesantes del dataset (estadísticas de resumen, gráficos, etc.).
+
+Aqui ideas de lo que se va a hacer:
+
+-> Mirar el sexo / identidad sexual de los usuarios
+
+-> Estudiar la edad de los usuarios 
+----> Ver su distribución
+----> Ver si afecta el sexo / identidad sexual a la distribución
+
+-> Ver como varia los generos de anime en función del tiempo
+----> Ver si hay alguna tendencia sencillita
+
+
+Preguntas y problemas: Dada la exploración anterior y su motivación original, formular preguntas que se pueden responder mediante la minería de datos y que 
+se puedan vincular a la problemática planteada en la motivación.
+
+
+-> ¿Existe alguna relación entre el genero del anime y los usuarios que lo mirar? Ver parametros como:
+(Ver si hay correlacion entre genero y algún / algunos parametro(s))
+	----> Edad
+	----> Sexo / identidad sexual
+	----> Otros
+--> Intentar hacer modelos de prediccion para poder determinar si es que se puede encontrar cierta relación
+	----> Random Forest
+	----> Naive Bayes
+	----> Otros
+
+-> ¿Existe una relación entre los usuarios que completan cierto anime / genero de anime? Ver parametros como:
+(Ver si completar las series tiene una relación / distribución)
+	----> Edad
+	----> Sexo / identidad sexual
+	----> Otros
+
+-> ¿Existe una relación entre los productores / estudio de un anime y los usuarios que ven dicho anime? Ver parametros como:
+(Ver productores de las series y estudiar)
+	----> Efecto sobre edad
+	----> Efecto sobre sexo / identidad sexual
+	----> Terminar serie o no
+
+->  ¿Existe una relación entre generos de anime? Ver parametros como:
+(Ver si hay correlaciones entre generos, generos que son similares) 
+	----> Mirar usuarios y ver que sale
+	----> Hacer Kmeans o algo asi de clustering
+	----> Buscar correlaciones fuertes entre generos
+
+-> ¿Es posible hacer un modelo que entrege recomendaciones de que anime ver a usuarios?
+(Hacer predicciones sobre animes recomendados a usuarios dados sus caracteristicas, gustos y animes vistos)
+	----> Random Forest
+	----> Naive Bayes
+	----> Otros
+
+
+Falta agregar:
+
+Yo encuentro que hay que agregar alguna pregunta del estilo: se puede predecir y en base a X,Z,etc
+Probablemente esa en vez de la de correlación
+O la de la correlación encaminarla para allá
+Al menos este tipo de pregunta dijo el Hernán que hicieramos
+Como que no fuese "tan sencilla" jajaja
