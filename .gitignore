@@ -2,3 +2,6 @@
 Datos/animelists_cleaned.csv
 .ipynb_checkpoints
 Datos/userAnimeListPreprocesada.csv
+Datos/anime_cleaned.csv
+Datos/clean-locations.csv
+Datos/users_cleaned.csv
