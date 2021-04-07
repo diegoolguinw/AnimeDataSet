@@ -17,3 +17,9 @@ Integrantes:<br/>
 ### Hito 1
 1. [Link](https://docs.google.com/presentation/d/1JLiSjNyjMiNj7Yzar_kmdoWUKHjSpeh4NmU6TC3tcDs/edit#slide=id.p) a la presentación.
 2. [Link](https://docs.google.com/document/d/17td98CfFIq3fx9m8knkZj-xFMNtehk29pGIPHgJbwIg/edit?usp=sharing) al informe.
+
+Preguntas importantes
+* Rango etario vs categorias de anime 
+* Cantidad de anime vs rango etario
+* Distribución de rango etario (listo)
+* Distribución de join date (listo)
