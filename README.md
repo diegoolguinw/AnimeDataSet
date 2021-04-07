@@ -6,8 +6,8 @@ Integrantes:<br/>
 -Ignacio Basualto<br/>
 -Sebastían Bustos<br/>
 -Renato Cerda<br/>
--Raimundo Lushsinger<br/>
 -Diego Olguín<br/>
+-Raimundo Vicente<br/>
 
 ### Importante: <br/>
 1. Hacer "pull" constantemente en sus repositorios locales.
