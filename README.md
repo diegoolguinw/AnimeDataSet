@@ -17,6 +17,7 @@ Integrantes:<br/>
 ### Hito 1
 1. [Link](https://docs.google.com/presentation/d/1JLiSjNyjMiNj7Yzar_kmdoWUKHjSpeh4NmU6TC3tcDs/edit#slide=id.p) a la presentación.
 2. [Link](https://docs.google.com/document/d/17td98CfFIq3fx9m8knkZj-xFMNtehk29pGIPHgJbwIg/edit?usp=sharing) al informe.
+3. [Link](https://drive.google.com/drive/folders/1XNzyVoWz5dc9VxtuUDNHmLOm-3dA5qS4?usp=sharing) a la información preporcesada de "animelist"
 
 Preguntas importantes
 * Rango etario vs categorias de anime 
